@@ -11,10 +11,8 @@ To start mining Yoken ($YO), follow these simple steps:
 1. Send a transaction to the contract's address or to "**yoken.ton**" with a 'yo' message in the comment
 2. Ensure to attach a minimum of 0.42 $TON to your transaction to activate the mining
 
-> [!TIP]
 > Optionally, you can include your friend in the mining process by tagging their address in the transaction comment using the format 'yo&nbsp;{friend_address}', and they will receive **1 $YO** as well!
 
-> [!IMPORTANT]  
 > Do not send less than 0.42 $TON; otherwise, the transaction will be rejected.
 
 ### Early Birds
@@ -30,7 +28,6 @@ To start mining Yoken ($YO), follow these simple steps:
 - 10% chance to receive **$1 $YO**
 - 89% chance to receive **0.1 $YO**
 
-> [!TIP]
 > To increase your chance of getting more **$YO** after early mining finishes, send $TON in the range **1 - 100**
 
 ## Distribution
