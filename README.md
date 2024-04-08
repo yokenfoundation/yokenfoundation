@@ -40,5 +40,5 @@ Here's a breakdown of the token distribution:
 
 ### Get Started
 
-- **Smart Contract:** *soon*
+- **Smart Contract:** [EQB46FKFDsMpr-aV97Lvh93VDwE8OhGa3kox9qaKwlKAUIkb](https://tonviewer.com/EQB46FKFDsMpr-aV97Lvh93VDwE8OhGa3kox9qaKwlKAUIkb)
 - **News and Updates:** [Telegram](https://t.me/yoken42)
