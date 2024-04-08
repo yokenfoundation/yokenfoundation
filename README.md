@@ -35,7 +35,7 @@ To start mining Yoken ($YO), follow these simple steps:
 Here's a breakdown of the token distribution:
 
 - **Total Supply:** 99,000,000.00 $YO
-- **Minable Supply:** 93,000,000.00 $YO
+- **Mineable Supply:** 93,000,000.00 $YO
 - **Reserved Tokens:** 6,000,000 $YO for future events, team, liquidity pulls, etc.
 
 ### Get Started
