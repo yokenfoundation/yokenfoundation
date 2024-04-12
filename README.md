@@ -50,7 +50,7 @@ Here's a breakdown of the token distribution:
 
 ## Get Started
 
-- **Smart Contract:** [EQAzT9STdtJMEacU8V2EjskXn6BXuWI95Pe9I7OIC7ggtJKN](https://tonviewer.com/EQAzT9STdtJMEacU8V2EjskXn6BXuWI95Pe9I7OIC7ggtJKN)
+- **Smart Contract:** [EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo](https://tonviewer.com/EQCDkrpCu-FFVPQJnManjlf8XCN75wjX_AKrrEFFQ1mfJqZo)
 - **News and Updates:** [Telegram](https://t.me/yoken)
 
 ## $YO for everyone!
