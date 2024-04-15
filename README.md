@@ -46,7 +46,7 @@ Here's a breakdown of the token distribution:
 
 - **Total Supply:** 99,000,000.00 $YO
 - **Mineable Supply:** 93,000,000.00 $YO
-- **Reserved Tokens:** 6,000,000 $YO for future events, team, liquidity pulls, etc.
+- **Reserved Tokens:** 6,000,000 $YO for future events, team, liquidity pools, etc.
 
 ## Get Started
 
